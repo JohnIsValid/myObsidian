@@ -4,8 +4,8 @@
   "title": "检查 Git 插件状态",
   "titleGenerationStatus": "success",
   "createdAt": 1778825353953,
-  "updatedAt": 1778825547044,
-  "lastResponseAt": 1778825547044,
+  "updatedAt": 1778825892208,
+  "lastResponseAt": 1778825892208,
   "sessionId": "019e2a40-dfa7-7463-aad0-4066eaf922c9",
   "providerState": {
     "threadId": "019e2a40-dfa7-7463-aad0-4066eaf922c9",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 17072,
+    "inputTokens": 21579,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 16768,
+    "cacheReadInputTokens": 20352,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 17072,
-    "percentage": 7,
+    "contextTokens": 21579,
+    "percentage": 8,
     "model": "gpt-5.5"
   }
 }
