@@ -1,0 +1,25 @@
+{
+  "id": "conv-1778825353953-737ou2vjs",
+  "providerId": "codex",
+  "title": "检查 Git 插件状态",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778825353953,
+  "updatedAt": 1778825547044,
+  "lastResponseAt": 1778825547044,
+  "sessionId": "019e2a40-dfa7-7463-aad0-4066eaf922c9",
+  "providerState": {
+    "threadId": "019e2a40-dfa7-7463-aad0-4066eaf922c9",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\05\\15\\rollout-2026-05-15T14-09-15-019e2a40-dfa7-7463-aad0-4066eaf922c9.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 17072,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 16768,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 17072,
+    "percentage": 7,
+    "model": "gpt-5.5"
+  }
+}
