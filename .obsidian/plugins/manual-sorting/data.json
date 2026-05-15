@@ -1,0 +1,448 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "个人总结",
+        "参考文献",
+        "Skl",
+        "asset"
+      ],
+      "sortOrder": "custom"
+    },
+    "参考文献": {
+      "children": [
+        "参考文献/参考文献链接.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结": {
+      "children": [
+        "个人总结/游戏中逻辑对象的表现",
+        "个人总结/游戏底层功能",
+        "个人总结/玩法设计",
+        "个人总结/关卡设计",
+        "个人总结/游戏AI设计",
+        "个人总结/战斗设计",
+        "个人总结/开发工具",
+        "个人总结/自学笔记"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/关卡设计": {
+      "children": [
+        "个人总结/关卡设计/关卡设计知识",
+        "个人总结/关卡设计/关卡白盒",
+        "个人总结/关卡设计/关卡平面图.md",
+        "个人总结/关卡设计/关卡设计小技巧.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/关卡设计/关卡白盒": {
+      "children": [
+        "个人总结/关卡设计/关卡白盒/关卡白盒概述.md",
+        "个人总结/关卡设计/关卡白盒/关卡白盒技巧.md",
+        "个人总结/关卡设计/关卡白盒/关卡白盒设计标准.md",
+        "个人总结/关卡设计/关卡白盒/关卡白盒验收与验证.md",
+        "个人总结/关卡设计/关卡白盒/关卡白盒工程说明书.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/关卡设计/关卡设计知识": {
+      "children": [
+        "个人总结/关卡设计/关卡设计知识/关卡叙事.md",
+        "个人总结/关卡设计/关卡设计知识/关卡路径.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/开发工具": {
+      "children": [
+        "个人总结/开发工具/开发工具罗列.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/玩法设计": {
+      "children": [
+        "个人总结/玩法设计/解谜设计",
+        "个人总结/玩法设计/大世界玩法",
+        "个人总结/玩法设计/玩法库"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/玩法设计/大世界玩法": {
+      "children": [
+        "个人总结/玩法设计/大世界玩法/限时骑乘挑战.md",
+        "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
+        "个人总结/玩法设计/大世界玩法/大世界玩法.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/玩法设计/解谜设计": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "个人总结/玩法设计/玩法库": {
+      "children": [
+        "个人总结/玩法设计/玩法库/玩法库.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/游戏底层功能": {
+      "children": [
+        "个人总结/游戏底层功能/目标系统",
+        "个人总结/游戏底层功能/机关系统",
+        "个人总结/游戏底层功能/触发器系统",
+        "个人总结/游戏底层功能/交互系统",
+        "个人总结/游戏底层功能/性能优化"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/游戏底层功能/触发器系统": {
+      "children": [
+        "个人总结/游戏底层功能/触发器系统/关卡触发器总结.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/游戏底层功能/机关系统": {
+      "children": [
+        "个人总结/游戏底层功能/机关系统/机关功能总结.md",
+        "个人总结/游戏底层功能/机关系统/网游的机关.md",
+        "个人总结/游戏底层功能/机关系统/单机的机关.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/游戏底层功能/交互系统": {
+      "children": [
+        "个人总结/游戏底层功能/交互系统/交互功能总结.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/游戏底层功能/目标系统": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "个人总结/游戏底层功能/性能优化": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "个人总结/游戏中逻辑对象的表现": {
+      "children": [
+        "个人总结/游戏中逻辑对象的表现/游戏中逻辑对象的表现.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/游戏AI设计": {
+      "children": [
+        "个人总结/游戏AI设计/游戏AI想法.md",
+        "个人总结/游戏AI设计/AI的功能.md",
+        "个人总结/游戏AI设计/AI的外观.md",
+        "个人总结/游戏AI设计/NPC.md",
+        "个人总结/游戏AI设计/飞行类AI.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/战斗设计": {
+      "children": [
+        "个人总结/战斗设计/战斗设计.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/自学笔记": {
+      "children": [
+        "个人总结/自学笔记/学习CPP",
+        "个人总结/自学笔记/学习ExcelVBA",
+        "个人总结/自学笔记/学习WorldMachine",
+        "个人总结/自学笔记/学习虚幻引擎",
+        "个人总结/自学笔记/学习Obsidian",
+        "个人总结/自学笔记/学习AI大模型"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/自学笔记/学习虚幻引擎": {
+      "children": [
+        "个人总结/自学笔记/学习虚幻引擎/虚幻引擎Pipeline.md",
+        "个人总结/自学笔记/学习虚幻引擎/虚幻资产命名规范.md",
+        "个人总结/自学笔记/学习虚幻引擎/PCG.md",
+        "个人总结/自学笔记/学习虚幻引擎/BehaviorTree.md",
+        "个人总结/自学笔记/学习虚幻引擎/StateTree.md",
+        "个人总结/自学笔记/学习虚幻引擎/ObjectMixer.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/自学笔记/学习AI大模型": {
+      "children": [
+        "个人总结/自学笔记/学习AI大模型/Nano Banana.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/自学笔记/学习CPP": {
+      "children": [
+        "个人总结/自学笔记/学习CPP/CPP基础.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/自学笔记/学习ExcelVBA": {
+      "children": [
+        "个人总结/自学笔记/学习ExcelVBA/使用VBA前的设置.md",
+        "个人总结/自学笔记/学习ExcelVBA/VBA基础知识.md",
+        "个人总结/自学笔记/学习ExcelVBA/VBA对象.md",
+        "个人总结/自学笔记/学习ExcelVBA/VBA属性.md",
+        "个人总结/自学笔记/学习ExcelVBA/VBA语句.md",
+        "个人总结/自学笔记/学习ExcelVBA/VBA方法.md",
+        "个人总结/自学笔记/学习ExcelVBA/VBA窗体.md",
+        "个人总结/自学笔记/学习ExcelVBA/杂项.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/自学笔记/学习Obsidian": {
+      "children": [
+        "个人总结/自学笔记/学习Obsidian/语法学习.md",
+        "个人总结/自学笔记/学习Obsidian/测试文档.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "个人总结/自学笔记/学习WorldMachine": {
+      "children": [
+        "个人总结/自学笔记/学习WorldMachine/WorldMachine基础节点.md",
+        "个人总结/自学笔记/学习WorldMachine/WorldMachine河流实例.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "asset": {
+      "children": [
+        "asset/Pasted image 20260415141455.png",
+        "asset/Pasted image 20260415141504.png",
+        "asset/Pasted image 20260415141522.png",
+        "asset/Pasted image 20260415141545.png",
+        "asset/Pasted image 20260415141601.png",
+        "asset/Pasted image 20260415141609.png",
+        "asset/Pasted image 20260415141625.png",
+        "asset/Pasted image 20260415141853.png",
+        "asset/Pasted image 20260415142024.png",
+        "asset/Pasted image 20260415142205.png",
+        "asset/Pasted image 20260415142210.png",
+        "asset/Pasted image 20260415142221.png",
+        "asset/Pasted image 20260415142230.png",
+        "asset/Pasted image 20260415142244.png",
+        "asset/Pasted image 20260415142252.png",
+        "asset/Pasted image 20260415142300.png",
+        "asset/Pasted image 20260415142357.png",
+        "asset/Pasted image 20260415142410.png",
+        "asset/Pasted image 20260415142433.png",
+        "asset/Pasted image 20260415142450.png",
+        "asset/Pasted image 20260415140943.png",
+        "asset/Pasted image 20260415140937.png",
+        "asset/Pasted image 20260415140925.png",
+        "asset/Pasted image 20260415140919.png",
+        "asset/Pasted image 20260415140903.png",
+        "asset/Pasted image 20260415140859.png",
+        "asset/Pasted image 20260415140838.png",
+        "asset/Pasted image 20260415140832.png",
+        "asset/Pasted image 20260415140825.png",
+        "asset/Pasted image 20260415140803.png",
+        "asset/Pasted image 20260415140759.png",
+        "asset/Pasted image 20260415140738.png",
+        "asset/Pasted image 20260415140732.png",
+        "asset/Pasted image 20260415140652.png",
+        "asset/Pasted image 20260415140642.png",
+        "asset/Pasted image 20260415140633.png",
+        "asset/Pasted image 20260415140622.png",
+        "asset/Pasted image 20260415140607.png",
+        "asset/Pasted image 20260415140557.png",
+        "asset/Pasted image 20260415140552.png",
+        "asset/Pasted image 20260415140525.png",
+        "asset/元素交互设计.xlsx",
+        "asset/小游戏玩法汇总.pptx",
+        "asset/玩法元素.xlsx",
+        "asset/玩法设想.docx",
+        "asset/玩法记录.pptx",
+        "asset/开放世界关卡玩法_3.docx",
+        "asset/开放世界关卡玩法_2.docx",
+        "asset/开放世界关卡玩法_1.docx",
+        "asset/Pasted image 20260413135746.png",
+        "asset/Pasted image 20260413135727.png",
+        "asset/Pasted image 20260413135715.png",
+        "asset/Pasted image 20260413135658.png",
+        "asset/Pasted image 20260413135526.png",
+        "asset/Pasted image 20260413135011.png",
+        "asset/Pasted image 20260413134920.png",
+        "asset/Pasted image 20260413134842.png",
+        "asset/Pasted image 20260413134553.png",
+        "asset/Pasted image 20260413133641.png",
+        "asset/Pasted image 20260413133523.png",
+        "asset/Pasted image 20260413133330.png",
+        "asset/Pasted image 20260413010157.png",
+        "asset/Pasted image 20260413010150.png",
+        "asset/Pasted image 20260413010145.png",
+        "asset/Pasted image 20260413010135.png",
+        "asset/Pasted image 20260413010125.png",
+        "asset/Pasted image 20260413005525.png",
+        "asset/Pasted image 20260413005509.png",
+        "asset/j角色交互1.xlsx",
+        "asset/Game_Design_Resources.xlsx",
+        "asset/Blueprint_poster_18x24.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl": {
+      "children": [
+        "Skl/art-requirement",
+        "Skl/config-table-guide",
+        "Skl/design-conventions",
+        "Skl/design-review",
+        "Skl/doc-format-standard",
+        "Skl/md-to-excel",
+        "Skl/md-to-word",
+        "Skl/python-test",
+        "Skl/req-gameplay",
+        "Skl/req-leveldesign",
+        "Skl/req-system",
+        "Skl/requirement-generation",
+        "Skl/workflow-caveboss",
+        "Skl/workflow-checklist-gen"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/art-requirement": {
+      "children": [
+        "Skl/art-requirement/references",
+        "Skl/art-requirement/scripts",
+        "Skl/art-requirement/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/art-requirement/references": {
+      "children": [
+        "Skl/art-requirement/references/animation-format.md",
+        "Skl/art-requirement/references/concept-art-format.md",
+        "Skl/art-requirement/references/vfx-format.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/art-requirement/scripts": {
+      "children": [
+        "Skl/art-requirement/scripts/write_art_excel.py"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/config-table-guide": {
+      "children": [
+        "Skl/config-table-guide/references",
+        "Skl/config-table-guide/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/config-table-guide/references": {
+      "children": [
+        "Skl/config-table-guide/references/_index.md",
+        "Skl/config-table-guide/references/actor-1.md",
+        "Skl/config-table-guide/references/actor-2.md",
+        "Skl/config-table-guide/references/audio-visual.md",
+        "Skl/config-table-guide/references/build-collect.md",
+        "Skl/config-table-guide/references/character.md",
+        "Skl/config-table-guide/references/combat-skill.md",
+        "Skl/config-table-guide/references/config-system.md",
+        "Skl/config-table-guide/references/dungeon-challenge-1.md",
+        "Skl/config-table-guide/references/dungeon-challenge-2.md",
+        "Skl/config-table-guide/references/guide-tutorial.md",
+        "Skl/config-table-guide/references/item-drop.md",
+        "Skl/config-table-guide/references/monster-ai.md",
+        "Skl/config-table-guide/references/operational-1.md",
+        "Skl/config-table-guide/references/operational-2.md",
+        "Skl/config-table-guide/references/other.md",
+        "Skl/config-table-guide/references/pet-pal.md",
+        "Skl/config-table-guide/references/quest-story.md",
+        "Skl/config-table-guide/references/resource.md",
+        "Skl/config-table-guide/references/scene-map-1.md",
+        "Skl/config-table-guide/references/scene-map-2.md",
+        "Skl/config-table-guide/references/shop-economy.md",
+        "Skl/config-table-guide/references/social-guild.md",
+        "Skl/config-table-guide/references/ui.md",
+        "Skl/config-table-guide/references/vehicle.md",
+        "Skl/config-table-guide/references/weapon-equipment.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/design-conventions": {
+      "children": [
+        "Skl/design-conventions/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/design-review": {
+      "children": [
+        "Skl/design-review/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/doc-format-standard": {
+      "children": [
+        "Skl/doc-format-standard/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/md-to-excel": {
+      "children": [
+        "Skl/md-to-excel/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/md-to-word": {
+      "children": [
+        "Skl/md-to-word/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/python-test": {
+      "children": [
+        "Skl/python-test/scripts",
+        "Skl/python-test/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/python-test/scripts": {
+      "children": [
+        "Skl/python-test/scripts/hello.py"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/req-gameplay": {
+      "children": [
+        "Skl/req-gameplay/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/req-leveldesign": {
+      "children": [
+        "Skl/req-leveldesign/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/req-system": {
+      "children": [
+        "Skl/req-system/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/requirement-generation": {
+      "children": [
+        "Skl/requirement-generation/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/workflow-caveboss": {
+      "children": [
+        "Skl/workflow-caveboss/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Skl/workflow-checklist-gen": {
+      "children": [
+        "Skl/workflow-checklist-gen/SKILL.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

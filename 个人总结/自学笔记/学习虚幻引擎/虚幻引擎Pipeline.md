@@ -1,0 +1,1 @@
+![[Blueprint_poster_18x24.pdf]]

@@ -1,0 +1,28 @@
+{
+  "id": "conv-1778725455421-lmjp2ujiv",
+  "providerId": "codex",
+  "title": "Greet user",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778725455421,
+  "updatedAt": 1778824939957,
+  "lastResponseAt": 1778824939957,
+  "sessionId": "019e244c-8afa-79a2-83fa-e0a031c82d28",
+  "providerState": {
+    "threadId": "019e244c-8afa-79a2-83fa-e0a031c82d28",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\05\\14\\rollout-2026-05-14T10-24-16-019e244c-8afa-79a2-83fa-e0a031c82d28.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "externalContextPaths": [
+    "D:\\文档\\ObsidianRepository"
+  ],
+  "usage": {
+    "inputTokens": 79639,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 78720,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 79639,
+    "percentage": 31,
+    "model": "gpt-5.5"
+  }
+}
