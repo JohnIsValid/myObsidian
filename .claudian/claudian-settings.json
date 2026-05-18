@@ -1,5 +1,5 @@
 {
-  "userName": "",
+  "userName": "java",
   "permissionMode": "yolo",
   "model": "haiku",
   "thinkingBudget": "off",
@@ -19,7 +19,7 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "locale": "en",
+  "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
       "safeMode": "acceptEdits",
@@ -45,7 +45,8 @@
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "DESKTOP-QH6KT3U": "native-windows"
+        "DESKTOP-QH6KT3U": "native-windows",
+        "DESKTOP-HAU2ECR": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     },

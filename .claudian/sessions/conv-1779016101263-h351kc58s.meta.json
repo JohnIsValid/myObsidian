@@ -1,0 +1,25 @@
+{
+  "id": "conv-1779016101263-h351kc58s",
+  "providerId": "codex",
+  "title": "Explain GitHub Pages usage",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779016101263,
+  "updatedAt": 1779016241743,
+  "lastResponseAt": 1779016241743,
+  "sessionId": "019e359f-7640-7301-a2eb-ff1075ef0c34",
+  "providerState": {
+    "threadId": "019e359f-7640-7301-a2eb-ff1075ef0c34",
+    "sessionFilePath": "C:\\Users\\ZhouHanxiang\\.codex\\sessions\\2026\\05\\17\\rollout-2026-05-17T19-08-23-019e359f-7640-7301-a2eb-ff1075ef0c34.jsonl",
+    "transcriptRootPath": "C:\\Users\\ZhouHanxiang\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 25536,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 2432,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 25536,
+    "percentage": 10,
+    "model": "gpt-5.5"
+  }
+}

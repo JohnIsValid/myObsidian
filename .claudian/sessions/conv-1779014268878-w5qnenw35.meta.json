@@ -1,0 +1,25 @@
+{
+  "id": "conv-1779014268878-w5qnenw35",
+  "providerId": "codex",
+  "title": "优化 Markdown 文档",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779014268878,
+  "updatedAt": 1779016083267,
+  "lastResponseAt": 1779015758922,
+  "sessionId": "019e3583-7893-7cd2-bb8c-858f120d39a2",
+  "providerState": {
+    "threadId": "019e3583-7893-7cd2-bb8c-858f120d39a2",
+    "sessionFilePath": "C:\\Users\\ZhouHanxiang\\.codex\\sessions\\2026\\05\\17\\rollout-2026-05-17T18-37-49-019e3583-7893-7cd2-bb8c-858f120d39a2.jsonl",
+    "transcriptRootPath": "C:\\Users\\ZhouHanxiang\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 72932,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 71552,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 72932,
+    "percentage": 28,
+    "model": "gpt-5.5"
+  }
+}

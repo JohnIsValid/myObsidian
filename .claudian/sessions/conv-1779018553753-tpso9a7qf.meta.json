@@ -1,0 +1,26 @@
+{
+  "id": "conv-1779018553753-tpso9a7qf",
+  "providerId": "codex",
+  "title": "Add track decoration guidance",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779018553753,
+  "updatedAt": 1779019418064,
+  "lastResponseAt": 1779019418064,
+  "sessionId": "019e35c4-e49c-7a00-95b9-4843ae99334e",
+  "providerState": {
+    "threadId": "019e35c4-e49c-7a00-95b9-4843ae99334e",
+    "sessionFilePath": "C:\\Users\\ZhouHanxiang\\.codex\\sessions\\2026\\05\\17\\rollout-2026-05-17T19-49-16-019e35c4-e49c-7a00-95b9-4843ae99334e.jsonl",
+    "transcriptRootPath": "C:\\Users\\ZhouHanxiang\\.codex\\sessions"
+  },
+  "currentNote": "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
+  "usage": {
+    "inputTokens": 42679,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41856,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42679,
+    "percentage": 17,
+    "model": "gpt-5.5"
+  }
+}
