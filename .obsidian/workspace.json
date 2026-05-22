@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人总结/游戏底层功能/机关系统/网游的机关.md",
-                "mode": "preview",
+                "file": "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网游的机关"
+              "title": "限时骑乘挑战经验总结"
             }
           }
         ]
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 468.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,9 +219,9 @@
   },
   "active": "97db3e3f1fd27e20",
   "lastOpenFiles": [
+    "个人总结/游戏底层功能/机关系统/网游的机关.md",
     "个人总结/游戏底层功能/机关系统/网游的机关.optimized.md",
     "个人总结/游戏底层功能/机关系统/单机的机关.md",
-    "个人总结/游戏底层功能/机关系统/网游的机关.md",
     "个人总结/游戏底层功能/机关系统/机关功能总结.md",
     "个人总结/游戏中逻辑对象的表现/游戏中逻辑对象的表现.md",
     "参考文献/World-Building with Architecture.md",

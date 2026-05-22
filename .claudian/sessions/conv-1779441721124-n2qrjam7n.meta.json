@@ -1,0 +1,26 @@
+{
+  "id": "conv-1779441721124-n2qrjam7n",
+  "providerId": "codex",
+  "title": "Add cheering spectators to riding challenge",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779441721124,
+  "updatedAt": 1779441794997,
+  "lastResponseAt": 1779441794997,
+  "sessionId": "019e4efd-e0c8-78b3-bdad-e23fef618034",
+  "providerState": {
+    "threadId": "019e4efd-e0c8-78b3-bdad-e23fef618034",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\05\\22\\rollout-2026-05-22T17-22-01-019e4efd-e0c8-78b3-bdad-e23fef618034.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "currentNote": "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
+  "usage": {
+    "inputTokens": 25701,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24960,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 25701,
+    "percentage": 10,
+    "model": "gpt-5.5"
+  }
+}
