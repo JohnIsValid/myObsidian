@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
+                "file": "每日开放世界游戏设计分析-塞尔达传说旷野之息-优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "限时骑乘挑战经验总结"
+              "title": "每日开放世界游戏设计分析-塞尔达传说旷野之息-优化"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "648218b07c19bee9",
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,32 +217,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97db3e3f1fd27e20",
+  "active": "20e9d77c53fe80f6",
   "lastOpenFiles": [
-    "个人总结/游戏底层功能/机关系统/网游的机关.md",
-    "个人总结/游戏底层功能/机关系统/网游的机关.optimized.md",
-    "个人总结/游戏底层功能/机关系统/单机的机关.md",
-    "个人总结/游戏底层功能/机关系统/机关功能总结.md",
+    "每日开放世界游戏设计分析-塞尔达传说旷野之息-原稿.md",
+    "每日开放世界游戏设计分析-塞尔达传说旷野之息-优化.md",
+    "原神大世界探索体验分析报告-3A策划优化.md",
     "个人总结/游戏中逻辑对象的表现/游戏中逻辑对象的表现.md",
+    "原神大世界探索体验分析报告-优化.md",
+    "原神大世界探索体验分析报告.md",
+    "个人总结/玩法设计/大世界探索.md",
+    "参考文献/参考文献链接.md",
     "参考文献/World-Building with Architecture.md",
-    "参考文献/City-Building 城市构建速成课.md",
+    "个人总结/自学笔记/学习WorldMachine/WorldMachine基础节点.md",
+    "个人总结/自学笔记/学习WorldMachine/WorldMachine河流实例.md",
+    "个人总结/自学笔记/学习ExcelVBA/VBA窗体.md",
+    "个人总结/自学笔记/学习ExcelVBA/杂项.md",
+    "个人总结/自学笔记/学习ExcelVBA/VBA方法.md",
+    "个人总结/自学笔记/学习ExcelVBA/VBA语句.md",
+    "个人总结/自学笔记/学习ExcelVBA/VBA属性.md",
+    "个人总结/自学笔记/学习ExcelVBA/VBA对象.md",
+    "个人总结/自学笔记/学习ExcelVBA/VBA基础知识.md",
+    "个人总结/自学笔记/学习ExcelVBA/使用VBA前的设置.md",
+    "个人总结/自学笔记/学习CPP/CPP基础.md",
     "个人总结/开发工具/开发工具罗列.md",
     "个人总结/战斗设计/战斗设计.md",
+    "个人总结/游戏AI设计/AI的功能.md",
+    "个人总结/游戏AI设计/游戏AI想法.md",
     "个人总结/关卡设计/关卡设计小技巧.md",
     "个人总结/关卡设计/关卡平面图.md",
-    "个人总结/关卡设计/关卡设计知识/关卡路径.md",
-    "个人总结/关卡设计/关卡设计知识/关卡叙事.md",
-    "个人总结/玩法设计/玩法库/玩法库.md",
-    "个人总结/玩法设计/大世界玩法/大世界玩法.md",
-    "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
-    "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
-    "个人总结/关卡设计/关卡设计知识/关卡叙事 1.md",
     "JohnJava-s-Homepage/myPage/index.html",
     "JohnJava-s-Homepage/myPage/resume.html",
     "JohnJava-s-Homepage/scripts/generate-md-manifest.js",
     "JohnJava-s-Homepage/scripts",
-    "JohnJava-s-Homepage/myPage/md/关卡设计小技巧.md",
-    "JohnJava-s-Homepage/myPage/md/关卡平面图.md",
     "JohnJava-s-Homepage/myPage/md/articles.json",
     "JohnJava-s-Homepage/myPage/md",
     "JohnJava-s-Homepage/myPage/assets/myIcon.jpg",
@@ -252,12 +258,6 @@
     "JohnJava-s-Homepage/myPage/assets",
     "JohnJava-s-Homepage/myPage/styles.css",
     "JohnJava-s-Homepage/myPage/server.js",
-    "个人总结/游戏底层功能/触发器系统/关卡触发器总结.md",
-    "参考文献/参考文献链接.md",
-    "个人总结/玩法设计/大世界玩法/限时骑乘挑战.md",
-    "个人总结/游戏底层功能/交互系统/交互功能总结.md",
-    "个人总结/自学笔记/学习AI大模型/Nano Banana.md",
-    "个人总结/自学笔记/学习Obsidian/语法学习.md",
     "asset/Pasted image 20260415142450.png",
     "asset/Pasted image 20260415142433.png",
     "asset/Pasted image 20260415142410.png",
