@@ -1,0 +1,26 @@
+{
+  "id": "conv-1779762386948-1m0xfeemt",
+  "providerId": "codex",
+  "title": "优化开放世界策划文章",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779762386948,
+  "updatedAt": 1780142882961,
+  "lastResponseAt": 1779764934739,
+  "sessionId": "019e621a-e814-7183-8d82-bdb3798bac1c",
+  "providerState": {
+    "threadId": "019e621a-e814-7183-8d82-bdb3798bac1c",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\05\\26\\rollout-2026-05-26T10-26-31-019e621a-e814-7183-8d82-bdb3798bac1c.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "currentNote": "个人总结/玩法设计/大世界探索.md",
+  "usage": {
+    "inputTokens": 43026,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42368,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 43026,
+    "percentage": 17,
+    "model": "gpt-5.5"
+  }
+}

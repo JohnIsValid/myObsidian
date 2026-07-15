@@ -1,0 +1,25 @@
+{
+  "id": "conv-1780142927262-d0qoms5uc",
+  "providerId": "codex",
+  "title": "Translate Medium article to Markdown",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780142927263,
+  "updatedAt": 1780143994388,
+  "lastResponseAt": 1780143994388,
+  "sessionId": "019e78c9-74f7-7dc0-a95a-5e758b77c0ca",
+  "providerState": {
+    "threadId": "019e78c9-74f7-7dc0-a95a-5e758b77c0ca",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\05\\30\\rollout-2026-05-30T20-08-49-019e78c9-74f7-7dc0-a95a-5e758b77c0ca.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 139541,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 138624,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 139541,
+    "percentage": 54,
+    "model": "gpt-5.5"
+  }
+}
