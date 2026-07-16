@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to handle cover placement - 中文详尽整理-web-images.md",
+                "file": "个人总结/玩法设计/大世界玩法/玩法环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to handle cover placement - 中文详尽整理-web-images"
+              "title": "玩法环境"
             }
           }
         ],
@@ -234,9 +234,16 @@
   },
   "active": "02ef698e018546c5",
   "lastOpenFiles": [
+    "asset/Pasted image 20260716103401.png",
+    "asset/Pasted image 20260716102243.png",
+    "个人总结/玩法设计/大世界玩法/宝箱设计.md",
+    "个人总结/玩法设计/大世界玩法/玩法环境.md",
+    "个人总结/玩法设计/大世界玩法/大世界玩法.md",
+    "How to handle cover placement - 中文详尽整理-web-images.md",
+    "每日开放世界游戏设计分析-塞尔达传说旷野之息-优化.md",
+    "原神大世界探索体验分析报告-3A策划优化.md",
     "个人总结/探索设计/大世界探索.md",
     "__verify_cover.py",
-    "How to handle cover placement - 中文详尽整理-web-images.md",
     "__write_cover_web_md.py",
     "check_note.py",
     "参考文献/How to handle cover placement - 中文整理.md",
@@ -250,16 +257,12 @@
     "asset/how-to-handle-cover-placement/05-window-opportunity-distance-shooting-duration.png",
     "asset/how-to-handle-cover-placement/04-cover-shooter-simplified.png",
     "asset/how-to-handle-cover-placement/03-window-opportunity-distance-look-duration.png",
-    "asset/how-to-handle-cover-placement/02-stealth-cover-placement.jpg",
     "asset/how-to-handle-cover-placement",
     "tmp_cover_images",
     "16p_article_content.html",
     "16p_chunks/f5a5ea608f9ba4f225aa.js",
     "16p_chunks/06a804a4256096e08869.js",
     "16p_chunks/96376227ed958f7e41a3.js",
-    "原神大世界探索体验分析报告-3A策划优化.md",
-    "每日开放世界游戏设计分析-塞尔达传说旷野之息-优化.md",
-    "个人总结/玩法设计/大世界玩法/大世界玩法.md",
     "每日开放世界游戏设计分析-塞尔达传说旷野之息-原稿.md",
     "个人总结/游戏中逻辑对象的表现/游戏中逻辑对象的表现.md",
     "原神大世界探索体验分析报告-优化.md",
@@ -276,8 +279,6 @@
     "个人总结/自学笔记/学习ExcelVBA/VBA对象.md",
     "个人总结/自学笔记/学习ExcelVBA/VBA基础知识.md",
     "个人总结/自学笔记/学习ExcelVBA/使用VBA前的设置.md",
-    "个人总结/自学笔记/学习CPP/CPP基础.md",
-    "个人总结/开发工具/开发工具罗列.md",
-    "个人总结/战斗设计/战斗设计.md"
+    "个人总结/自学笔记/学习CPP/CPP基础.md"
   ]
 }

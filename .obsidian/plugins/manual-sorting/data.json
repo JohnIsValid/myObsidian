@@ -2,6 +2,7 @@
   "customOrder": {
     "/": {
       "children": [
+        "How to handle cover placement - 中文详尽整理-web-images.md",
         "每日开放世界游戏设计分析-塞尔达传说旷野之息-优化.md",
         "原神大世界探索体验分析报告-3A策划优化.md",
         "个人总结",
@@ -13,6 +14,7 @@
     },
     "参考文献": {
       "children": [
+        "参考文献/How to handle cover placement - 中文整理.md",
         "参考文献/City-Building 城市构建速成课.md",
         "参考文献/World-Building with Architecture.md",
         "参考文献/参考文献链接.md"
@@ -81,6 +83,8 @@
     },
     "个人总结/玩法设计/大世界玩法": {
       "children": [
+        "个人总结/玩法设计/大世界玩法/宝箱设计.md",
+        "个人总结/玩法设计/大世界玩法/玩法环境.md",
         "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
         "个人总结/玩法设计/大世界玩法/大世界玩法.md"
       ],
@@ -219,6 +223,7 @@
     },
     "asset": {
       "children": [
+        "asset/how-to-handle-cover-placement",
         "asset/Pasted image 20260415141455.png",
         "asset/Pasted image 20260415141504.png",
         "asset/Pasted image 20260415141522.png",
@@ -290,6 +295,22 @@
         "asset/j角色交互1.xlsx",
         "asset/Game_Design_Resources.xlsx",
         "asset/Blueprint_poster_18x24.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "asset/how-to-handle-cover-placement": {
+      "children": [
+        "asset/how-to-handle-cover-placement/01-cover-metrics.jpg",
+        "asset/how-to-handle-cover-placement/02-stealth-cover-placement.jpg",
+        "asset/how-to-handle-cover-placement/03-window-opportunity-distance-look-duration.png",
+        "asset/how-to-handle-cover-placement/04-cover-shooter-simplified.png",
+        "asset/how-to-handle-cover-placement/05-window-opportunity-distance-shooting-duration.png",
+        "asset/how-to-handle-cover-placement/06-implied-space-example.png",
+        "asset/how-to-handle-cover-placement/07-implied-space-integration.png",
+        "asset/how-to-handle-cover-placement/08-direct-layout-application.png",
+        "asset/how-to-handle-cover-placement/09-halo-reach-level-exploration.png",
+        "asset/how-to-handle-cover-placement/10-realistic-layout-example.png",
+        "asset/how-to-handle-cover-placement/11-shadow-space-example.png"
       ],
       "sortOrder": "custom"
     },
