@@ -1,0 +1,27 @@
+{
+  "id": "conv-1784706818691-2yg04dpme",
+  "providerId": "codex",
+  "title": "整理当前文档",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784706818691,
+  "updatedAt": 1784708245179,
+  "lastResponseAt": 1784708245179,
+  "sessionId": "019f88d4-134a-7d03-8c8b-a95d4ff5f75b",
+  "selectedModel": "gpt-5.5",
+  "providerState": {
+    "threadId": "019f88d4-134a-7d03-8c8b-a95d4ff5f75b",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\07\\22\\rollout-2026-07-22T15-57-07-019f88d4-134a-7d03-8c8b-a95d4ff5f75b.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "currentNote": "个人总结/玩法设计/大世界玩法/宝箱设计.md",
+  "usage": {
+    "inputTokens": 50565,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 49536,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 50565,
+    "percentage": 20,
+    "model": "gpt-5.5"
+  }
+}

@@ -84,7 +84,6 @@
     "个人总结/玩法设计/大世界玩法": {
       "children": [
         "个人总结/玩法设计/大世界玩法/宝箱设计.md",
-        "个人总结/玩法设计/大世界玩法/玩法环境.md",
         "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
         "个人总结/玩法设计/大世界玩法/大世界玩法.md"
       ],
@@ -223,6 +222,8 @@
     },
     "asset": {
       "children": [
+        "asset/Pasted image 20260716102243.png",
+        "asset/Pasted image 20260716103401.png",
         "asset/how-to-handle-cover-placement",
         "asset/Pasted image 20260415141455.png",
         "asset/Pasted image 20260415141504.png",
