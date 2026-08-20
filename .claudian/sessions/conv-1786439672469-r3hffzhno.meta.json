@@ -1,0 +1,28 @@
+{
+  "id": "conv-1786439672469-r3hffzhno",
+  "providerId": "codex",
+  "title": "整理文档",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786439672515,
+  "updatedAt": 1786439732396,
+  "lastResponseAt": 1786439732396,
+  "sessionId": "019ff01a-2803-7982-9763-058d3b03ebc9",
+  "selectedModel": "gpt-5.5",
+  "providerState": {
+    "threadId": "019ff01a-2803-7982-9763-058d3b03ebc9",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\08\\11\\rollout-2026-08-11T17-14-38-019ff01a-2803-7982-9763-058d3b03ebc9.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "个人总结/游戏底层功能/限时挑战/限时挑战框架.md",
+  "usage": {
+    "inputTokens": 17339,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 16768,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 17339,
+    "percentage": 7,
+    "model": "gpt-5.5"
+  }
+}

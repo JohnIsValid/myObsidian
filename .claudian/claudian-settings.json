@@ -45,9 +45,9 @@
       "customModels": "",
       "discoveredModels": [
         {
-          "model": "gpt-5.3-codex",
-          "displayName": "gpt-5.3-codex",
-          "description": "Coding-optimized model.",
+          "model": "gpt-5.6-sol",
+          "displayName": "GPT-5.6-Sol",
+          "description": "Latest frontier agentic coding model.",
           "supportedReasoningEfforts": [
             {
               "value": "low",
@@ -64,16 +64,108 @@
             {
               "value": "xhigh",
               "description": "Extra high reasoning depth for complex problems"
+            },
+            {
+              "value": "max",
+              "description": "Maximum reasoning depth for the hardest problems"
             }
           ],
           "defaultReasoningEffort": "medium",
-          "serviceTiers": [],
-          "defaultServiceTier": null,
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
+            }
+          ],
+          "defaultServiceTier": "priority",
           "inputModalities": [
             "text",
             "image"
           ],
           "isDefault": true
+        },
+        {
+          "model": "gpt-5.6-terra",
+          "displayName": "GPT-5.6-Terra",
+          "description": "Balanced agentic coding model for everyday work.",
+          "supportedReasoningEfforts": [
+            {
+              "value": "low",
+              "description": "Fast responses with lighter reasoning"
+            },
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            },
+            {
+              "value": "max",
+              "description": "Maximum reasoning depth for the hardest problems"
+            }
+          ],
+          "defaultReasoningEffort": "medium",
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
+            }
+          ],
+          "defaultServiceTier": "priority",
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": false
+        },
+        {
+          "model": "gpt-5.6-luna",
+          "displayName": "GPT-5.6-Luna",
+          "description": "Fast and affordable agentic coding model.",
+          "supportedReasoningEfforts": [
+            {
+              "value": "low",
+              "description": "Fast responses with lighter reasoning"
+            },
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            },
+            {
+              "value": "max",
+              "description": "Maximum reasoning depth for the hardest problems"
+            }
+          ],
+          "defaultReasoningEffort": "medium",
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
+            }
+          ],
+          "defaultServiceTier": "priority",
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": false
         },
         {
           "model": "gpt-5.5",
@@ -98,39 +190,14 @@
             }
           ],
           "defaultReasoningEffort": "xhigh",
-          "serviceTiers": [],
-          "defaultServiceTier": null,
-          "inputModalities": [
-            "text",
-            "image"
-          ],
-          "isDefault": false
-        },
-        {
-          "model": "gpt-5.2",
-          "displayName": "gpt-5.2",
-          "description": "Optimized for professional work and long-running agents.",
-          "supportedReasoningEfforts": [
+          "serviceTiers": [
             {
-              "value": "low",
-              "description": "Balances speed with some reasoning; useful for straightforward queries and short explanations"
-            },
-            {
-              "value": "medium",
-              "description": "Provides a solid balance of reasoning depth and latency for general-purpose tasks"
-            },
-            {
-              "value": "high",
-              "description": "Maximizes reasoning depth for complex or ambiguous problems"
-            },
-            {
-              "value": "xhigh",
-              "description": "Extra high reasoning for complex problems"
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
             }
           ],
-          "defaultReasoningEffort": "medium",
-          "serviceTiers": [],
-          "defaultServiceTier": null,
+          "defaultServiceTier": "priority",
           "inputModalities": [
             "text",
             "image"
@@ -160,8 +227,14 @@
             }
           ],
           "defaultReasoningEffort": "medium",
-          "serviceTiers": [],
-          "defaultServiceTier": null,
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
+            }
+          ],
+          "defaultServiceTier": "priority",
           "inputModalities": [
             "text",
             "image"
@@ -205,7 +278,7 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "catalogTimestamp": 1784708027940,
+      "catalogTimestamp": 1786439604608,
       "catalogFingerprint": "1:54740385cb4d4e7b2def5e402b5faa9b3ee7cb4c73cd032313419d0211f15002",
       "installationMethodsByHost": {
         "DESKTOP-HAU2ECR": "native-windows",

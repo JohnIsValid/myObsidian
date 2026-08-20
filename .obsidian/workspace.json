@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人总结/玩法设计/大世界玩法/宝箱设计.md",
+                "file": "个人总结/游戏底层功能/限时挑战/限时挑战框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "宝箱设计"
+              "title": "限时挑战框架"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "custom",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -217,18 +219,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "114ec8fc6619de94",
+  "active": "20e9d77c53fe80f6",
   "lastOpenFiles": [
+    "个人总结/玩法设计/大世界玩法/大世界玩法.md",
     "个人总结/玩法设计/大世界玩法/限时骑乘挑战经验总结.md",
     "个人总结/玩法设计/大世界玩法/宝箱设计.md",
+    "个人总结/探索设计/大世界探索.md",
+    "个人总结/游戏底层功能/交互系统/交互功能总结.md",
+    "个人总结/游戏底层功能/触发器系统/关卡触发器总结.md",
+    "个人总结/游戏底层功能/机关系统/网游的机关.optimized.md",
+    "个人总结/游戏底层功能/机关系统/网游的机关.md",
+    "个人总结/游戏底层功能/限时挑战/限时挑战框架.md",
+    "个人总结/游戏中逻辑对象的表现/游戏中逻辑对象的表现.md",
+    "个人总结/关卡设计/关卡白盒/关卡白盒工程说明书.md",
+    "个人总结/关卡设计/关卡白盒/关卡白盒验收与验证.md",
+    "个人总结/关卡设计/关卡白盒/关卡白盒设计标准.md",
+    "个人总结/关卡设计/关卡白盒/关卡白盒技巧.md",
+    "个人总结/关卡设计/关卡白盒/关卡白盒概述.md",
+    "个人总结/关卡设计/关卡设计小技巧.md",
     "个人总结/玩法设计/大世界玩法/玩法环境.md",
     "asset/Pasted image 20260716103401.png",
     "asset/Pasted image 20260716102243.png",
-    "个人总结/玩法设计/大世界玩法/大世界玩法.md",
     "How to handle cover placement - 中文详尽整理-web-images.md",
     "每日开放世界游戏设计分析-塞尔达传说旷野之息-优化.md",
     "原神大世界探索体验分析报告-3A策划优化.md",
-    "个人总结/探索设计/大世界探索.md",
     "__verify_cover.py",
     "__write_cover_web_md.py",
     "check_note.py",
@@ -249,21 +263,9 @@
     "16p_chunks/06a804a4256096e08869.js",
     "16p_chunks/96376227ed958f7e41a3.js",
     "每日开放世界游戏设计分析-塞尔达传说旷野之息-原稿.md",
-    "个人总结/游戏中逻辑对象的表现/游戏中逻辑对象的表现.md",
     "原神大世界探索体验分析报告-优化.md",
     "原神大世界探索体验分析报告.md",
     "参考文献/参考文献链接.md",
-    "参考文献/World-Building with Architecture.md",
-    "个人总结/自学笔记/学习WorldMachine/WorldMachine基础节点.md",
-    "个人总结/自学笔记/学习WorldMachine/WorldMachine河流实例.md",
-    "个人总结/自学笔记/学习ExcelVBA/VBA窗体.md",
-    "个人总结/自学笔记/学习ExcelVBA/杂项.md",
-    "个人总结/自学笔记/学习ExcelVBA/VBA方法.md",
-    "个人总结/自学笔记/学习ExcelVBA/VBA语句.md",
-    "个人总结/自学笔记/学习ExcelVBA/VBA属性.md",
-    "个人总结/自学笔记/学习ExcelVBA/VBA对象.md",
-    "个人总结/自学笔记/学习ExcelVBA/VBA基础知识.md",
-    "个人总结/自学笔记/学习ExcelVBA/使用VBA前的设置.md",
-    "个人总结/自学笔记/学习CPP/CPP基础.md"
+    "参考文献/World-Building with Architecture.md"
   ]
 }
